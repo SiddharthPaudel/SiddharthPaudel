@@ -1,6 +1,6 @@
 ![Image](https://github.com/user-attachments/assets/02dad026-43ea-4e4c-97a7-2026002640d5)
 <h1 align="center">Hi 👋, I'm Siddhartha Paudel</h1>
-<h3 align="center">A passionate full stack developer with a strong focus on the MERN stack, especially frontend development and UI/UX design. Experienced in creating clean, user-friendly interfaces using React.Has been part of team projects using agile practices, supporting clear collaboration, steady progress, and successful completion of project milestones.</h3>
+<h3 align="center">A passionate full stack developer with a strong focus on the MERN stack, especially frontend development and UI/UX design.Has been part of team projects using agile practices, supporting clear collaboration, steady progress, and successful completion of project milestones.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddharthpaudel" alt="siddharthpaudel" /></a> </p>
 
