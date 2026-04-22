@@ -2,7 +2,7 @@
 
 # Siddhartha 👋  
 
-Frontend Developer (React) & MERN  
+Full Stack Developer MERN & Next.JS 
 
 </div>
 
@@ -10,7 +10,7 @@ Frontend Developer (React) & MERN
 
 ### ⚡ Skills  
 - JavaScript (ES6+), Python, C, Java  
-- React, Node.js, Express, MongoDB  
+- React, Node.js, Express, MongoDB ,Firebase 
 - HTML, CSS, Tailwind  
 - Git, Linux, MySQL  
 - UI/UX Design & Prototyping  
