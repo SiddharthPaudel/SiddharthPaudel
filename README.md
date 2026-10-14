@@ -18,6 +18,8 @@ Full Stack Developer MERN & Next.JS
 ---
 
 ### 🚀 Projects 
+- Tomo Globewise(Tours and Travel)
+- NamoBuddha Consultancy(Japanese Consultancy)
 - Gamified Learning Platform (XP, Levels, Quizzes, Mascot)  
 - Quick Stay – Hotel Booking App (MERN)  
 - Cup Joe – Café Management Platform  
